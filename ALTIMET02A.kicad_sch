@@ -1072,7 +1072,6 @@
     )
   )
 
-
   (junction (at 93.345 76.2) (diameter 0) (color 0 0 0 0)
     (uuid 58c79971-e12a-4969-a345-5c8bb2b51c70)
   )
@@ -1701,7 +1700,7 @@
     (property "Reference" "R2" (id 0) (at 237.49 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 237.49 121.9199 0)
+    (property "Value" "DNF" (id 1) (at 237.49 121.9199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 233.172 120.65 90)
@@ -2010,7 +2009,7 @@
     (property "Reference" "R1" (id 0) (at 227.33 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (id 1) (at 227.33 121.9199 0)
+    (property "Value" "DNF" (id 1) (at 227.33 121.9199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 223.012 120.65 90)
@@ -2191,10 +2190,10 @@
       (reference "JP3") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels")
     )
     (path "/f13b7327-bb05-40fa-8b40-12fd0fcfee2c"
-      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R1") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/46e25556-1506-4d58-a0a0-05cb5bee836e"
-      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R2") (unit 1) (value "DNF") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
   )
 )
