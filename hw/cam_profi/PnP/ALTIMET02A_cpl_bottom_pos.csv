@@ -1,6 +1,0 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"C1","10uF","C_0805_2012Metric",137.4140,-109.7940,90.0000,bottom
-"C2","100nF","C_0805_2012Metric",139.7000,-109.7940,90.0000,bottom
-"IC1","MS561101BA03-50","MS561101BA03-50",133.6040,-109.7280,90.0000,bottom
-"R1","DNF","R_0805_2012Metric",138.4300,-104.3940,0.0000,bottom
-"R2","DNF","R_0805_2012Metric",134.3660,-104.3940,180.0000,bottom
