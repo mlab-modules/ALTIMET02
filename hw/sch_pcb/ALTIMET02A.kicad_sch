@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ALTIMET02")
+    (date "2023-01-18")
+    (rev "A")
+    (company "Marek Sommer")
+    (comment 1 "Digital altimeter  \\nand barometer sensor")
+  )
+
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.635 2.54 0)
@@ -1510,7 +1518,7 @@
     (property "Footprint" "KiCad:MS561101BA03-50" (id 2) (at 157.48 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "http://www.te.com/usa-en/search.html?q=ms5611&source=header" (id 3) (at 157.48 76.2 0)
+    (property "Datasheet" "https://www.te.com/usa-en/product-MS561101BA03-50.datasheet.pdf" (id 3) (at 157.48 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Description" "Sensor Pressure 1.2bar Barometric SMD MS561101BA03-50, Barometric Pressure Sensor, 1200mbar 0  3.6 V Output, 8-Pin QFN" (id 4) (at 157.48 78.74 0)
