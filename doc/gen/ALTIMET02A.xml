@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ALTIMET02A.kicad_sch</source>
-    <date>Wed Jan 18 20:32:25 2023</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <date>Wed Jan 18 21:14:06 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ALTIMET02</title>
