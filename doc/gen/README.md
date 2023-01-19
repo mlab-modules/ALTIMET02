@@ -67,7 +67,7 @@ Defined vias:
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 4, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 12, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
@@ -79,7 +79,7 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (4)
+- 0.5 mm (20 mils) (12)
 - 1.0 mm (39 mils) (22)
 - 3.1 mm (122 mils) (4)
 
