@@ -50,8 +50,8 @@ Eurocircuits class: 4B
 
 Components count: (SMD/THT)
 
-- Top: 0/7 (THT)
-- Bottom: 5/0 (SMD)
+- Top: 0/6 (THT)
+- Bottom: 6/0 (SMD)
 
 Defined tracks:
 
@@ -59,8 +59,8 @@ Defined tracks:
 Used tracks:
 
 - 0.25 mm (10 mils) (2) defined: no
-- 0.4 mm (16 mils) (44) defined: no
-- 0.51 mm (20 mils) (24) defined: no
+- 0.4 mm (16 mils) (46) defined: no
+- 0.51 mm (20 mils) (23) defined: no
 
 Defined vias:
 
@@ -71,7 +71,7 @@ Used vias:
 
 Holes (excluding vias):
 
-- 0.89 mm (35 mils) (22)
+- 0.89 mm (35 mils) (16)
 - 3.0 mm (118 mils) (4)
 
 Oval holes:
@@ -80,7 +80,7 @@ Oval holes:
 Drill tools (including vias and computing adjusts and rounding):
 
 - 0.5 mm (20 mils) (16)
-- 1.0 mm (39 mils) (22)
+- 1.0 mm (39 mils) (16)
 - 3.1 mm (122 mils) (4)
 
 
