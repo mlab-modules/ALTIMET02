@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ALTIMET02A.kicad_sch</source>
-    <date>Wed Jan 18 21:14:06 2023</date>
+    <date>Wed Jan 18 23:56:59 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -379,7 +379,7 @@
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
     <net code="8" name="unconnected-(IC1-Pad5)">
-      <node ref="IC1" pin="5" pinfunction="CSB_2" pintype="input"/>
+      <node ref="IC1" pin="5" pinfunction="CSB_2" pintype="input+no_connect"/>
     </net>
   </nets>
 </export>
