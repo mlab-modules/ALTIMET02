@@ -30,7 +30,7 @@ images:
 - doc/assets/templates/Fritzing/generic-male-header_bread_8.svg
 - doc/assets/templates/Fritzing/src/M3.svg
 mark: 50
-mod_scheme: doc/gen/ALTIMET02A-schematic.pdf
+mod_scheme: doc/gen/ALTIMET02-schematic.pdf
 tags:
 - barometric-pressure
 - altimeter
