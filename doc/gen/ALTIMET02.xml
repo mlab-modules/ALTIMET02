@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/ALTIMET02A.kicad_sch</source>
-    <date>Sun Feb 12 23:39:35 2023</date>
+    <source>/github/workspace/hw/sch_pcb/ALTIMET02.kicad_sch</source>
+    <date>Sun Feb 12 23:47:24 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company>Marek Sommer</company>
         <rev>A</rev>
         <date>2023-01-18</date>
-        <source>ALTIMET02A.kicad_sch</source>
+        <source>ALTIMET02.kicad_sch</source>
         <comment number="1" value="Digital altimeter  \nand barometer sensor"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -29,7 +29,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e409d3f2-4813-4037-b77c-13ef3a5d92f9</tstamps>
     </comp>
@@ -38,7 +38,7 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8afc495c-8865-470d-a112-ac6a67e0e5fa</tstamps>
     </comp>
@@ -47,7 +47,7 @@
       <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>342501d3-5e1b-46bc-a540-ce9fe91e167b</tstamps>
     </comp>
@@ -56,7 +56,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cf5126dc-2d3c-4f4b-a186-e7637ae198b2</tstamps>
     </comp>
@@ -65,7 +65,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4fba7a94-7cde-4c99-9fa0-9b6f38f2b360</tstamps>
     </comp>
@@ -74,7 +74,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>97634194-d245-4940-bcbb-612e8fa2cdc2</tstamps>
     </comp>
@@ -83,7 +83,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a139c742-82e7-4068-b6a2-cc02d4d5a9bb</tstamps>
     </comp>
@@ -106,7 +106,7 @@
       <property name="Manufacturer_Name" value="TE Connectivity"/>
       <property name="Manufacturer_Part_Number" value="MS561101BA03-50"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>45e095b5-b75a-439c-ac75-8b0ca8435b78</tstamps>
     </comp>
@@ -115,7 +115,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03" description="2x03 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>35849f21-653e-47cc-93db-d2c5fa6bebfa</tstamps>
     </comp>
@@ -124,7 +124,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL" description="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0e1085fc-3623-4600-ac99-711202be1fa6</tstamps>
     </comp>
@@ -133,7 +133,7 @@
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea1e58a3-f0b3-40ba-b236-023bb61b130e</tstamps>
     </comp>
@@ -142,7 +142,7 @@
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0a62873e-1f89-4b58-bf0c-fd0896fe225b</tstamps>
     </comp>
@@ -151,7 +151,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f13b7327-bb05-40fa-8b40-12fd0fcfee2c</tstamps>
     </comp>
@@ -160,7 +160,7 @@
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="ALTIMET02A.kicad_sch"/>
+      <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46e25556-1506-4d58-a0a0-05cb5bee836e</tstamps>
     </comp>

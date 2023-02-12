@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "6.0.10+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-02-12T23:39:23+00:00"
+    "CreationDate": "2023-02-12T23:46:52+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ALTIMET02A",
-      "GUID": "414c5449-4d45-4543-9032-412e6b696361",
+      "Name": "ALTIMET02",
+      "GUID": "414c5449-4d45-4543-9032-2e6b69636164",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ALTIMET02A-Edge_Cuts.gbr",
+      "Path": "ALTIMET02-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-F_Cu.gbr",
+      "Path": "ALTIMET02-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-B_Cu.gbr",
+      "Path": "ALTIMET02-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-F_Mask.gbr",
+      "Path": "ALTIMET02-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ALTIMET02A-B_Mask.gbr",
+      "Path": "ALTIMET02-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ALTIMET02A-F_Silkscreen.gbr",
+      "Path": "ALTIMET02-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-B_Silkscreen.gbr",
+      "Path": "ALTIMET02-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-F_Paste.gbr",
+      "Path": "ALTIMET02-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ALTIMET02A-B_Paste.gbr",
+      "Path": "ALTIMET02-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
