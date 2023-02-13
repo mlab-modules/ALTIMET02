@@ -30,6 +30,7 @@ images:
 - doc/assets/templates/Fritzing/generic-male-header_bread_8.svg
 - doc/assets/templates/Fritzing/src/M3.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/ALTIMET02-ibom.html
 mod_scheme: doc/gen/ALTIMET02-schematic.pdf
 tags:
 - barometric-pressure
