@@ -1,4 +1,4 @@
-bom: ''
+bom: hw/sch_pcb/ALTIMET02.kicad_pcb
 eda:
   pcb: hw/sch_pcb/ALTIMET02.kicad_pcb
   type: kicad
