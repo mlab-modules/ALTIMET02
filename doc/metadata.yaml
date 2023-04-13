@@ -8,8 +8,8 @@ images:
 - doc/gen/img/ALTIMET02-top.png
 - doc/gen/ALTIMET02-schematic.svg
 - doc/gen/img/ALTIMET02-top.svg
-- hw/cam_profi/docs/ALTIMET02A-assembly_page_01.svg
 - hw/cam_profi/docs/ALTIMET02A-assembly_page_02.svg
+- hw/cam_profi/docs/ALTIMET02A-assembly_page_01.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/ALTIMET02-ibom.html
 mod_scheme: doc/gen/ALTIMET02-schematic.pdf
