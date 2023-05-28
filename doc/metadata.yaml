@@ -13,6 +13,7 @@ images:
 - hw/cam_profi/docs/ALTIMET02A-assembly_page_02.svg
 - doc/gen/ALTIMET02-schematic.svg
 - doc/gen/img/ALTIMET02-top.svg
+- doc/gen/img/ALTIMET02-bottom.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/ALTIMET02-ibom.html
