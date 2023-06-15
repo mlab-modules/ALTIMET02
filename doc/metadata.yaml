@@ -7,13 +7,13 @@ github_url: https://github.com/mlab-modules/ALTIMET02
 homepage: true
 image: doc/gen/img/ALTIMET02-bottom.png
 images:
-- doc/gen/img/ALTIMET02-bottom.png
 - doc/gen/img/ALTIMET02-top.png
+- doc/gen/img/ALTIMET02-bottom.png
+- doc/gen/ALTIMET02-schematic.svg
+- doc/gen/img/ALTIMET02-bottom.svg
+- doc/gen/img/ALTIMET02-top.svg
 - hw/cam_profi/docs/ALTIMET02A-assembly_page_01.svg
 - hw/cam_profi/docs/ALTIMET02A-assembly_page_02.svg
-- doc/gen/ALTIMET02-schematic.svg
-- doc/gen/img/ALTIMET02-top.svg
-- doc/gen/img/ALTIMET02-bottom.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/ALTIMET02-ibom.html
