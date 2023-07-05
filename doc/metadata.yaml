@@ -24,4 +24,11 @@ tags:
 - barometer
 - i2c
 - spi
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: ALTIMET02
