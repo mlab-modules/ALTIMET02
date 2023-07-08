@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"H1","MountingHole_Pad","MountingHole_3mm",147.3200,-111.7600,0.0000,top
+"H2","MountingHole_Pad","MountingHole_3mm",116.8400,-111.7600,0.0000,top
+"H3","MountingHole_Pad","MountingHole_3mm",147.3200,-101.6000,0.0000,top
+"H4","MountingHole_Pad","MountingHole_3mm",116.8400,-101.6000,0.0000,top
+"J2","HEADER_2x03","Straight_2x03",125.2220,-100.5840,90.0000,top
+"J3","HEADER_2x05_PARALLEL","Straight_2x05",136.3980,-100.5840,-90.0000,top

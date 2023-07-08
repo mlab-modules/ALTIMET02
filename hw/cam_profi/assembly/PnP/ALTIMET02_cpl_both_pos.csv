@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","10uF","C_0805_2012Metric",133.3500,-109.5400,90.0000,bottom
+"C2","100nF","C_0805_2012Metric",135.6360,-109.5400,90.0000,bottom
+"D1","BZV55C3V6","Diode-MiniMELF_Standard",140.4620,-108.4580,0.0000,bottom
+"H1","MountingHole_Pad","MountingHole_3mm",147.3200,-111.7600,0.0000,top
+"H2","MountingHole_Pad","MountingHole_3mm",116.8400,-111.7600,0.0000,top
+"H3","MountingHole_Pad","MountingHole_3mm",147.3200,-101.6000,0.0000,top
+"H4","MountingHole_Pad","MountingHole_3mm",116.8400,-101.6000,0.0000,top
+"IC1","MS561101BA03-50","MS561101BA03-50",129.5400,-109.4740,90.0000,bottom
+"J2","HEADER_2x03","Straight_2x03",125.2220,-100.5840,90.0000,top
+"J3","HEADER_2x05_PARALLEL","Straight_2x05",136.3980,-100.5840,-90.0000,top
+"R1","DNF","R_0805_2012Metric",138.4300,-104.3940,0.0000,bottom
+"R2","DNF","R_0805_2012Metric",134.3660,-104.3940,180.0000,bottom
