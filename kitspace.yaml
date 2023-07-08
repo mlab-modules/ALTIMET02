@@ -5,4 +5,8 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ALTIMET02
-summary: Digital preasure and altimeter sensor with SPI or I2C interface
+summary: MLAB ALTIMET02 is compact, high-accuracy pressure and temperature sensing
+  module, employing the MS561101BA03 sensor. It's ideally suited for a variety of
+  applications including meteorology, navigation, climate monitoring, and other scientific
+  or industrial scenarios. With its low-power consumption, it's perfect for long-term
+  monitoring application.

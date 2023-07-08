@@ -1,4 +1,8 @@
-description: Digital preasure and altimeter sensor with SPI or I2C interface
+description: MLAB ALTIMET02 is compact, high-accuracy pressure and temperature sensing
+  module, employing the MS561101BA03 sensor. It's ideally suited for a variety of
+  applications including meteorology, navigation, climate monitoring, and other scientific
+  or industrial scenarios. With its low-power consumption, it's perfect for long-term
+  monitoring application.
 github_branch: ALTIMET02A
 github_branches:
 - ALTIMET02A
@@ -31,4 +35,6 @@ tags:
 - kicad-project
 - mlab-kicad
 - pcb
+- mlab-sensor
+- ms561101ba03
 title: ALTIMET02
