@@ -16,11 +16,11 @@ images:
 - doc/gen/ALTIMET02-schematic.svg
 - doc/gen/img/ALTIMET02-bottom.svg
 - doc/gen/img/ALTIMET02-top.svg
-- hw/cam_profi/docs/ALTIMET02A-assembly_page_02.svg
-- hw/cam_profi/docs/ALTIMET02A-assembly_page_01.svg
+- hw/cam_profi/assembly/ALTIMET02-assembly_page_02.svg
+- hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
 issues: 0
 mark: 80
-mod_ibom: hw/cam_profi/ibom/ALTIMET02-ibom.html
+mod_ibom: hw/cam_profi/ALTIMET02-ibom.html
 mod_scheme: doc/gen/ALTIMET02-schematic.pdf
 tags:
 - barometric-pressure
