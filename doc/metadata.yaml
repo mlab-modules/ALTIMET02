@@ -16,8 +16,8 @@ images:
 - doc/gen/ALTIMET02-schematic.svg
 - doc/gen/img/ALTIMET02-bottom.svg
 - doc/gen/img/ALTIMET02-top.svg
-- hw/cam_profi/assembly/ALTIMET02-assembly_page_02.svg
 - hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
+- hw/cam_profi/assembly/ALTIMET02-assembly_page_02.svg
 issues: 0
 mark: 80
 mod_ibom: hw/cam_profi/ALTIMET02-ibom.html
@@ -38,4 +38,4 @@ tags:
 - mlab-sensor
 - ms561101ba03
 title: ALTIMET02
-updated: '2023-07-21T03:39:31.342312+00:00'
+updated: '2023-09-06T12:27:41.773250+00:00'
