@@ -22,7 +22,7 @@ Silk screen: TOP / BOTTOM
 
 Clearance: 0.2 mm (8 mils)
 
-Track width: 0.25 mm (10 mils)
+Track width: 0.2 mm (8 mils)
 
 - By design rules: 0.0 mm (0 mils)
 
@@ -37,7 +37,7 @@ Via: 0.8/0.4 mm (31/16 mils)
 - By design rules: 0.5/0.3 mm (20/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 13 (thru: 13 buried/blind: 0 micro: 0)
+- Total: 11 (thru: 11 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.15 mm (6 mils)
 
@@ -59,17 +59,18 @@ Defined tracks:
 
 Used tracks:
 
+- 0.2 mm (8 mils) (1) defined: no
 - 0.25 mm (10 mils) (1) defined: no
-- 0.38 mm (15 mils) (21) defined: no
-- 0.4 mm (16 mils) (9) defined: no
-- 0.51 mm (20 mils) (24) defined: no
+- 0.38 mm (15 mils) (19) defined: no
+- 0.4 mm (16 mils) (10) defined: no
+- 0.51 mm (20 mils) (29) defined: no
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 13, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 11, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
@@ -81,7 +82,7 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (13)
+- 0.5 mm (20 mils) (11)
 - 1.0 mm (39 mils) (20)
 - 3.1 mm (122 mils) (4)
 

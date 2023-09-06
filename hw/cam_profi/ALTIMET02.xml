@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ALTIMET02.kicad_sch</source>
-    <date>Wed Sep  6 12:30:00 2023</date>
+    <date>Wed Sep  6 16:09:39 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -47,8 +47,8 @@
       <tstamps>8afc495c-8865-470d-a112-ac6a67e0e5fa</tstamps>
     </comp>
     <comp ref="D1">
-      <value>BZV55C3V6</value>
-      <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
+      <value>BZT52H-C3V6,115</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
@@ -162,7 +162,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -174,7 +173,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
-      <property name="dnp"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
