@@ -1,8 +1,5 @@
-description: MLAB ALTIMET02 is compact, high-accuracy pressure and temperature sensing
-  module, employing the MS561101BA03 sensor. It's ideally suited for a variety of
-  applications including meteorology, navigation, climate monitoring, and other scientific
-  or industrial scenarios. With its low-power consumption, it's perfect for long-term
-  monitoring application.
+description: 'High-accuracy barometric pressure and temperature sensing module with
+  MS561101BA03. '
 github_branch: ALTIMET02A
 github_branches:
 - ALTIMET02A
@@ -38,4 +35,4 @@ tags:
 - mlab-sensor
 - ms561101ba03
 title: ALTIMET02
-updated: '2023-09-07T10:10:04.152813+00:00'
+updated: '2023-09-07T10:22:45.844469+00:00'
