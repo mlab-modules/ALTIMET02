@@ -9,7 +9,7 @@
     (date "2023-01-18")
     (rev "A")
     (company "Marek Sommer")
-    (comment 1 "Digital altimeter  \\nand barometer sensor")
+    (comment 2 "Digital altimeter  \\nand barometer sensor\\nwith I²C or SPI interface")
   )
 
   (lib_symbols
@@ -1219,7 +1219,7 @@
     (effects (font (size 1.6 1.6)) (justify left bottom))
     (uuid ac3a1625-f488-4dec-855f-caff078ae750)
   )
-  (text "I2C connector" (at 240.665 107.315 0)
+  (text "I2C connector" (at 248.92 116.84 0)
     (effects (font (size 1.6 1.6)) (justify left bottom))
     (uuid e5034ff7-9b0b-4e48-96d7-9e7ca28890f1)
   )
