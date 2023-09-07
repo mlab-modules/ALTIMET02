@@ -4,12 +4,11 @@
 
 The [MLAB ALTIMET02](https://github.com/mlab-modules/ALTIMET02) is a high-performance pressure and temperature sensing module, based on the [MS561101BA03](https://www.te.com/usa-en/product-MS561101BA03-50.html) pressure sensor. This module is designed for use in a variety of applications, including meteorology, navigation, climate monitoring, and other scientific and industrial applications. 
 
-
 ![ALTIMET02A top PCB](doc/gen/img/ALTIMET02-top.svg) ![ALTIMET02A bottom PCB](doc/gen/img/ALTIMET02-bottom.svg)
 
 ## Specifications
 
-The key component of the ALTIMET02 module is the MS561101BA03 sensor from [TE Connectivity](https://www.te.com). This sensor is a highly accurate and low-power barometric sensor with a resolution up to 10 cm. The sensor provides a 24-bit digital output via the I2C or SPI interfaces, allowing for easy integration with various microcontrollers.
+The key component of the ALTIMET02 module is TE Connectivity MS561101BA03 sensor. This sensor is a highly accurate and low-power barometric sensor with a resolution of up to 10 cm. The sensor provides a 24-bit digital output via the I2C or SPI interfaces, allowing for easy integration with various microcontrollers.
 
 [![ALTIMET02 Module Schematic](doc/gen/ALTIMET02-schematic.svg)](doc/gen/ALTIMET02-schematic.pdf)
 
@@ -29,7 +28,7 @@ The key component of the ALTIMET02 module is the MS561101BA03 sensor from [TE Co
 
 ## Use Cases
 
-The ALTIMET02 module is primarily designed as a pressure sensing device, but its capabilities extend far beyond this purpose. With high accuracy and low power consumption, the module is ideal for a wide range of applications.
+The ALTIMET02 module is primarily designed as a pressure-sensing device for scientific experiments like statospheric balloons, but its capabilities extend far beyond this purpose. With high accuracy and low power consumption, the module is ideal for a wide range of applications.
 
 ### Atmospheric pressure and meteorological applications
 
