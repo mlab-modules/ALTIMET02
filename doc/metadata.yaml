@@ -19,7 +19,7 @@ issues: 0
 mark: 80
 mod_ibom: hw/cam_profi/ALTIMET02-ibom.html
 mod_scheme: doc/gen/ALTIMET02-schematic.pdf
-status: 0
+status: 2
 tags:
 - barometric-pressure
 - altimeter
