@@ -8,13 +8,13 @@ github_url: https://github.com/mlab-modules/ALTIMET02
 homepage: true
 image_title: doc/gen/img/ALTIMET02-top.png
 images:
-- doc/gen/img/ALTIMET02-bottom.png
 - doc/gen/img/ALTIMET02-top.png
+- doc/gen/img/ALTIMET02-bottom.png
 - doc/gen/ALTIMET02-schematic.svg
-- doc/gen/img/ALTIMET02-bottom.svg
 - doc/gen/img/ALTIMET02-top.svg
-- hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
+- doc/gen/img/ALTIMET02-bottom.svg
 - hw/cam_profi/assembly/ALTIMET02-assembly_page_02.svg
+- hw/cam_profi/assembly/ALTIMET02-assembly_page_01.svg
 issues: 0
 mark: 80
 mod_ibom: hw/cam_profi/ALTIMET02-ibom.html
@@ -36,4 +36,4 @@ tags:
 - mlab-sensor
 - ms561101ba03
 title: ALTIMET02
-updated: '2023-09-11T00:34:40.028578+00:00'
+updated: '2023-09-16T16:28:53.566298+00:00'
