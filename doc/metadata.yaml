@@ -3,6 +3,8 @@ description: 'High-accuracy barometric pressure and temperature sensing module w
 github_branch: ALTIMET02A
 github_branches:
 - ALTIMET02A
+github_description: 'High-accuracy barometric pressure and temperature sensing module
+  with MS561101BA03. '
 github_repo: ALTIMET02
 github_url: https://github.com/mlab-modules/ALTIMET02
 homepage: true
@@ -36,4 +38,4 @@ tags:
 - mlab-sensor
 - ms561101ba03
 title: ALTIMET02
-updated: '2023-09-16T21:29:29.395661+00:00'
+updated: '2023-09-17T11:33:11.249390+00:00'
