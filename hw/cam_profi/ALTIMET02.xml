@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ALTIMET02.kicad_sch</source>
-    <date>Wed Sep 20 18:04:27 2023</date>
+    <date>Wed Sep 20 18:23:59 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -27,7 +27,11 @@
     <comp ref="C1">
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -38,7 +42,11 @@
     <comp ref="C2">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -49,7 +57,11 @@
     <comp ref="D1">
       <value>BZT52H-C3V6,115</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <fields>
+        <field name="UST_ID">650b35ab462c6d9e720543d0</field>
+      </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="UST_ID" value="650b35ab462c6d9e720543d0"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Zener diode"/>
@@ -61,6 +73,7 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Fiducial Marker"/>
@@ -72,6 +85,7 @@
       <value>Fiducial</value>
       <footprint>Fiducial:Fiducial_1mm_Mask2mm</footprint>
       <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Fiducial Marker"/>
@@ -83,6 +97,7 @@
       <value>MountingHole_Pad</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole with connection"/>
@@ -94,6 +109,7 @@
       <value>MountingHole_Pad</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole with connection"/>
@@ -105,6 +121,7 @@
       <value>MountingHole_Pad</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole with connection"/>
@@ -116,6 +133,7 @@
       <value>MountingHole_Pad</value>
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole with connection"/>
@@ -127,6 +145,7 @@
       <value>HEADER_2x02_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x02_PARALLEL" description="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="2x02 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -138,6 +157,7 @@
       <value>HEADER_2x03_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -149,6 +169,7 @@
       <value>HEADER_2x05_PARALLEL</value>
       <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x05_PARALLEL" description="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="2x05 2.54 mm pitch header, 2 pins next to each other are connected"/>
@@ -160,6 +181,7 @@
       <value>SolderJumper_3_Bridged12</value>
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
@@ -171,6 +193,7 @@
       <value>SolderJumper_3_Bridged12</value>
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="UST_ID" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
@@ -179,9 +202,13 @@
       <tstamps>0a62873e-1f89-4b58-bf0c-fd0896fe225b</tstamps>
     </comp>
     <comp ref="R1">
-      <value>5k</value>
+      <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5fa0fc3e12875025b3977997</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -190,9 +217,13 @@
       <tstamps>f13b7327-bb05-40fa-8b40-12fd0fcfee2c</tstamps>
     </comp>
     <comp ref="R2">
-      <value>5k</value>
+      <value>5k1</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5fa0fc3e12875025b3977997</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5fa0fc3e12875025b3977997"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -204,7 +235,11 @@
       <value>MS5611-01BA</value>
       <footprint>Package_LGA:LGA-8_3x5mm_P1.25mm</footprint>
       <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=MS5611-01BA03&amp;DocType=Data+Sheet&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="UST_ID">650b36b0462c6d9e720543f4</field>
+      </fields>
       <libsource lib="Sensor_Pressure" part="MS5611-01BA" description="Barometric pressure sensor, 10cm resolution, 10 to 1200 mbar, I2C and SPI interface up to 20MHz, LGA-8"/>
+      <property name="UST_ID" value="650b36b0462c6d9e720543f4"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ALTIMET02.kicad_sch"/>
       <property name="ki_description" value="Barometric pressure sensor, 10cm resolution, 10 to 1200 mbar, I2C and SPI interface up to 20MHz, LGA-8"/>
