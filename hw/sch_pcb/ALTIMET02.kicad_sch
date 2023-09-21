@@ -1644,7 +1644,7 @@
     (property "Value" "MS5611-01BA" (at 139.7 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_LGA:LGA-8_3x5mm_P1.25mm" (at 130.81 77.47 0)
+    (property "Footprint" "Mlab_IO:MS5611-01BA03" (at 130.81 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5611-01BA03&DocType=Data+Sheet&DocLang=English" (at 130.81 77.47 0)
