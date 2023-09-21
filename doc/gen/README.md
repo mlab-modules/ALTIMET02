@@ -5,7 +5,7 @@ Board size: 40.13x19.81 mm (1.58x0.78 inches)
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
 - Material: FR4
-- Finish: HAL
+- Finish: None
 - Layers: 2
 - Copper thickness: 35 µm
 
@@ -18,11 +18,25 @@ Silk screen: TOP / BOTTOM
 - Color: White
 
 
+Stackup:
+
+| Name                 | Type                 | Color            | Thickness | Material        | Epsilon_r | Loss tangent |
+|----------------------|----------------------|------------------|-----------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |                  |           |                 |           |              |
+| F.Paste              | Top Solder Paste     |                  |           |                 |           |              |
+| F.Mask               | Top Solder Mask      |                  |        10 |                 |           |              |
+| F.Cu                 | copper               |                  |        35 |                 |           |              |
+| dielectric 1         | core                 |                  |      1510 | FR4             |       4.5 |        0.020 |
+| B.Cu                 | copper               |                  |        35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |                  |        10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |                  |           |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |                  |           |                 |           |              |
+
 # Important sizes
 
 Clearance: 0.2 mm (8 mils)
 
-Track width: 0.2 mm (8 mils)
+Track width: 0.25 mm (10 mils)
 
 - By design rules: 0.0 mm (0 mils)
 
@@ -59,11 +73,10 @@ Defined tracks:
 
 Used tracks:
 
-- 0.2 mm (8 mils) (1) defined: no
-- 0.25 mm (10 mils) (1) defined: no
+- 0.25 mm (10 mils) (2) defined: no
 - 0.38 mm (15 mils) (19) defined: no
 - 0.4 mm (16 mils) (10) defined: no
-- 0.51 mm (20 mils) (28) defined: no
+- 0.51 mm (20 mils) (25) defined: no
 
 Defined vias:
 

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ALTIMET02.kicad_sch</source>
-    <date>Thu Sep 21 00:33:48 2023</date>
+    <date>Thu Sep 21 08:10:23 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -233,7 +233,7 @@
     </comp>
     <comp ref="U1">
       <value>MS5611-01BA</value>
-      <footprint>Package_LGA:LGA-8_3x5mm_P1.25mm</footprint>
+      <footprint>Mlab_IO:MS5611-01BA03</footprint>
       <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=MS5611-01BA03&amp;DocType=Data+Sheet&amp;DocLang=English</datasheet>
       <fields>
         <field name="UST_ID">650b36b0462c6d9e720543f4</field>

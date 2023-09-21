@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad 7.0.7-7.0.7~ubuntu23.04.1} date Thu Sep 21 00:32:38 2023
+; DRILL file {KiCad 7.0.7-7.0.7~ubuntu23.04.1} date Thu Sep 21 08:09:45 2023
 ; FORMAT={3:3/ absolute / metric / suppress leading zeros}
-; #@! TF.CreationDate,2023-09-21T00:32:38+00:00
+; #@! TF.CreationDate,2023-09-21T08:09:45+00:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,7.0.7-7.0.7~ubuntu23.04.1
 ; #@! TF.FileFunction,Plated,1,2,PTH
 FMAT,2
@@ -20,7 +20,7 @@ X127254Y-112776
 X127254Y-113792
 X127254Y-114808
 X128071Y-111100
-X129900Y-108100
+X129286Y-110490
 X131800Y-112400
 X133350Y-106426
 X134366Y-106426

@@ -1,6 +1,6 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C1","10uF","C_0805_2012Metric",134.0766,-108.6120,90.0000,bottom
-"C2","100nF","C_0805_2012Metric",136.3626,-108.6120,90.0000,bottom
+"C2","100nF","C_0805_2012Metric",136.6520,-108.6120,90.0000,bottom
 "D1","BZT52H-C3V6,115","D_SOD-123F",140.2000,-108.4580,0.0000,bottom
 "FID1","Fiducial","Fiducial_1mm_Mask2mm",141.6000,-105.8000,180.0000,bottom
 "FID2","Fiducial","Fiducial_1mm_Mask2mm",125.3000,-108.0000,180.0000,bottom
@@ -12,5 +12,5 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J2","HEADER_2x03_PARALLEL","Straight_2x03",138.6840,-113.0300,90.0000,top
 "J3","HEADER_2x05_PARALLEL","Straight_2x05",136.3980,-100.5840,-90.0000,top
 "R1","5k1","R_0805_2012Metric",138.2125,-104.3000,0.0000,bottom
-"R2","5k1","R_0805_2012Metric",134.5875,-104.3000,180.0000,bottom
-"U1","MS5611-01BA","LGA-8_3x5mm_P1.25mm",129.9464,-108.1224,90.0000,bottom
+"R2","5k1","R_0805_2012Metric",134.3660,-104.3000,180.0000,bottom
+"U1","MS5611-01BA","MS5611-01BA03",129.9464,-108.1224,90.0000,bottom
