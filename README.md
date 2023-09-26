@@ -2,7 +2,7 @@
 
 The [MLAB ALTIMET02](https://github.com/mlab-modules/ALTIMET02) is a high-performance pressure and temperature sensing module, based on the [MS561101BA03](https://www.te.com/usa-en/product-MS561101BA03-50.html) pressure sensor. This module is designed for use in a variety of applications, including meteorology, navigation, climate monitoring, and other scientific and industrial applications. 
 
-![ALTIMET02A top PCB](doc/gen/img/ALTIMET02-top.svg) ![ALTIMET02A bottom PCB](doc/gen/img/ALTIMET02-bottom.svg)
+![ALTIMET02A top PCB](doc/gen/img/ALTIMET02-top.png) ![ALTIMET02A bottom PCB](doc/gen/img/ALTIMET02-bottom.png)
 
 ## Specifications
 
